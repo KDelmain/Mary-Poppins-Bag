@@ -18,10 +18,10 @@
     <ClInclude Include="BagInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DoubleLinkedBag.hpp">
+    <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Node.h">
+    <ClInclude Include="DoubleLinkedBag.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

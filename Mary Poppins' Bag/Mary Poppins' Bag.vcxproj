@@ -139,7 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="BagInterface.h" />
-    <ClInclude Include="DoubleLinkedBag.hpp" />
+    <ClInclude Include="DoubleLinkedBag.h" />
     <ClInclude Include="Node.h" />
   </ItemGroup>
   <ItemGroup>
